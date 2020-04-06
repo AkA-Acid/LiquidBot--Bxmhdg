@@ -1,0 +1,18 @@
+{
+  "name": "liquidbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acid",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
